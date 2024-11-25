@@ -6,3 +6,4 @@ for _ in range(n):
         print('|   |' + '   |' * (n-1))
         
     print('+---+' + '---+' * (n-1))
+a
