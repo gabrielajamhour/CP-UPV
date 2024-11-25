@@ -12,4 +12,3 @@ for i in range(m):
 
 for linea in matriz_vuelva:
       print(' '.join(linea))
-a
