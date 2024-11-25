@@ -10,4 +10,3 @@ for a in range(1, len(alturas)):
         analisis += 'B'
 
 print(analisis)
-a
