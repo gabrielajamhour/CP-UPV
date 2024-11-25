@@ -8,4 +8,3 @@ public class nmas1 {
         System.out.println(n+1);
     }
 }
-a
