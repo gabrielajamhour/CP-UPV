@@ -14,4 +14,3 @@ for _ in range(test_cases):
 
 for result in results:
     print(result)
-a
