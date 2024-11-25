@@ -3,4 +3,3 @@ public class Ano2023 {
         System.out.println(2023);
     }
 }
-a
