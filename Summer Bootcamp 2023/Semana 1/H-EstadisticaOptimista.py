@@ -10,4 +10,3 @@ for nota in notas_lista:
 media = soma / len(notas_lista)
 
 print(f'{media:.2f}')
-a
