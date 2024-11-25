@@ -14,3 +14,4 @@ sumasVerticales = [sum(columna) for columna in campoSandias_transposta]
 maxVertical = max(sumasVerticales)
 
 print(max(maxHorizontal, maxVertical))
+a
