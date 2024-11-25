@@ -16,4 +16,3 @@ for i in range(longitud):
 
 print(' '.join(array1_out))
 print(' '.join(array2_out))
-a
