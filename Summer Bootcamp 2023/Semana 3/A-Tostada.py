@@ -14,3 +14,4 @@ elif tostadaAntes == tostadaDespues:
     print("HA HABIDO SUERTE")
 else:
     print("TRAGEDIA")
+a
