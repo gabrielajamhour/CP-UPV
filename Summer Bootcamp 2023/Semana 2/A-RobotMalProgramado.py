@@ -8,3 +8,4 @@ for num in range(1, len(inteiros)):
     num += 1
 
 print(' '.join(map(str, soma_acumulativa)))
+a
