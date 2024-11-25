@@ -51,3 +51,5 @@ resultado = nova_matriz(campo)
 
 for linha in resultado:
     print("".join(map(str, linha)))
+
+a
